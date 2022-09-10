@@ -1,0 +1,73 @@
+{
+  "projects": [
+    {
+      "name": "projeto 1",
+      "budget": "8200",
+      "category": {
+        "id": "1",
+        "name": "infraestrura"
+      },
+      "cost": 2500,
+      "services": [
+        {
+          "name": "Realocação",
+          "cost": "2500",
+          "description": "Realocar máquinas da Diretoria para a Gerência",
+          "id": "d64d7495-43f7-4e4f-822c-862fd23266d2"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "projeto 2",
+      "budget": "6700",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "projeto 3",
+      "budget": "3600",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "projeto 4",
+      "budget": "1780",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infraestrura"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
